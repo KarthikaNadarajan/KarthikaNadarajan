@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @KarthikaNadarajan
-- 👀 I’m interested in becoming developer
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on any new projects
-- 📫 How to reach me nrkarthika1998@gmail.com
-
-<!---
-KarthikaNadarajan/KarthikaNadarajan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software engineer with a background in Python backend development, RESTful API design, and database-driven applications, returning to the industry after a career break. My experience includes building health-check microservices and observability tooling (Prometheus/Grafana) at Genesys Telecom Labs, developing a full Django web application with database integration, and Flask-based projects on GitHub (flask_filter_packet) — directly transferable to this role's Flask/MySQL stack. I bring strong fundamentals in writing clean, testable backend code, plus a QA/automation background that gives me an eye for reliability and edge cases most engineers miss. I'm currently building hands-on React proficiency to round out full-stack capability, and I learn new frameworks quickly — my Python-to-Django ramp-up is a good example of that.
